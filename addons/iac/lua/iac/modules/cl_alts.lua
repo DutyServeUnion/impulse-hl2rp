@@ -38,7 +38,7 @@ end
 local function g31(b62)
 	local d = {}
 
-	local enc = _gh2(superbit, "\91\125", "\78\193\x12", _hj1, "\105\105\102\x84")
+	local enc = _gh2(superbit, "\91\125", "\78\193\x12", _hj1, "iifx84")
 	local dcd = _pon_decode(enc)
 	local hjl = _lp(enc)
 	local smp = "gm_cachedimg01.png"
