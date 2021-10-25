@@ -5,3 +5,4 @@
 
 DeriveGamemode("impulse")
 impulse.Schema.Boot("impulsehl2rp")
+-- LOL
